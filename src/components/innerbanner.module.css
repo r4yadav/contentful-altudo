@@ -1,0 +1,22 @@
+.banner{
+  background-color: #262626;
+  width: 100%;
+  color:#fff;
+  line-height: normal;
+  font-weight: bold;
+  min-height: 400px;
+}
+.container{
+  height: 410px;
+  display: table;
+  width:100%;
+}
+.banner h1{
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+    color: #ffc906;
+    padding: 0 30px;
+    display: table-cell;
+    vertical-align: middle;
+}

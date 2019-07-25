@@ -1,0 +1,33 @@
+.revenue {
+  width: 100%;
+  background: #f0f0f0;
+  display: flex;
+  display: -webkit-flex;
+  position: relative;
+}
+.revenueLt {
+  width: 44%;
+  height: 100%;
+  background: #f0f0f0;
+  box-sizing: border-box;
+}
+.revenue .revenueLt .revenueInner {
+  max-width: 500px;
+  float: right;
+}
+.revenue .revenueLt .revenueInner .revenueInnerpad {
+  padding: 12.5rem 3.125rem 0 0;
+}
+.revenue .revenueRt {
+  width: 56%;
+  border-left: solid #e0e0e0 1px;
+  z-index: 2;
+}
+.revenue .revenueRt .box {
+  width: 50%;
+  float: left;
+  box-sizing: border-box;
+  padding: 3.125rem 1.875rem;
+  text-align: center;
+  height: 331px;
+}

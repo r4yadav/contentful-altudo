@@ -1,0 +1,21 @@
+.header{
+    padding: 20px 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    height:97px;
+    z-index: 1;
+}
+.header .scroll{
+  background: rgba(0,0,0,.9);
+}
+.logo{
+  display: inline-block;
+  max-width:150px;
+  vertical-align: middle;
+}
+nav{
+  display: inline-block;
+  vertical-align: middle;
+  color: #fff;line-height: normal;  float:right;margin-top:15px;
+}

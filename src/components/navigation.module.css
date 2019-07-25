@@ -1,0 +1,22 @@
+.navigation {
+  display: flex;
+  justify-content: right;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 1.25em;
+}
+
+.navigationItem {
+  display: inline-flex;
+  align-items: center;
+  margin: 0 1em;
+}
+
+.navigationItem a {
+  color: currentColor;
+  text-decoration: none;
+}
+.searchicon{
+  width:25px;height:25px;
+}
