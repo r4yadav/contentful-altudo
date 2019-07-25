@@ -79,7 +79,7 @@ a {
   }
 .casestudieslist li{
   list-style: none;
-  max-width:50%;padding:0 15px;float: left;
+  max-width:50%;padding:0 15px;float: left;margin-bottom:120px;
 }
 .casestudieslist h2{
   font-weight: 700;margin:15px 0 2.8% 0;line-height: 1;    font-size: 48px;
@@ -160,5 +160,5 @@ a {
  font-weight: 700
 }
 .visitLink{
-  color:#ffc906;
+  color:#ffc906;  
 }
