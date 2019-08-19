@@ -5,7 +5,7 @@ import Img from 'gatsby-image'
 import styles from './style.module.css'
 
 export default ({casestudies}) => (
-  <div className={styles.casestudy}>
+  <div className={styles.casestudyy}>
     <Img alt="" sizes={casestudies.thumbnail.sizes} />
     <h2>{casestudies.title}</h2>
     <p>{casestudies.summary}</p>
